@@ -37,3 +37,4 @@ Thumbs.db
 
 # Database
 **/*.db
+user-service/src/main/resources/application.yml
