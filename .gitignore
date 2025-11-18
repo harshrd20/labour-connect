@@ -1,0 +1,39 @@
+**/target/
+**/pom.xml.tag
+**/pom.xml.releaseBackup
+**/pom.xml.versionsBackup
+**/pom.xml.next
+**/release.properties
+**/dependency-reduced-pom.xml
+**/buildNumber.properties
+**/.mvn/timing.properties
+
+# IntelliJ IDEA
+.idea/
+**/*.iws
+**/*.iml
+**/*.ipr
+**/out/
+
+# Eclipse
+**/.classpath
+**/.project
+**/.settings/
+
+# VS Code
+.vscode/
+
+# Logs
+**/*.log
+
+# OS
+.DS_Store
+Thumbs.db
+*~
+
+# Application config with sensitive data (optional - uncomment if needed)
+# **/application-local.yml
+# **/application-secrets.yml
+
+# Database
+**/*.db
